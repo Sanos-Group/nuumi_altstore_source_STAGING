@@ -71,8 +71,9 @@
       }
     }
   ],
-  "news": [{
-    "title": "nuumi App Update Available",
+  "news": [
+    {
+    "title": "nuumi App Update Available 0.45.7 (115)",
     "identifier": "new_update",
     "caption": "New update available for nuumi app hehehehehe",
     "date": "2025-03-24",
@@ -80,5 +81,16 @@
     "imageURL": "https://altstore.nuumi.io/nuumi/icon_20241115.png",
     "notify": true,
     "appID": "co.sanosgroup.nuumi.app"
-}]
+    },
+    {
+        "title": "nuumi App Update Available 0.45.7 (115)",
+        "identifier": "new_update",
+        "caption": "New update available for nuumi app hehehehehe",
+        "date": "2025-03-24",
+        "tintColor": "#5CA399",
+        "imageURL": "https://altstore.nuumi.io/nuumi/icon_20241115.png",
+        "notify": true,
+        "appID": "co.sanosgroup.nuumi.app"
+        }
+]
 }
