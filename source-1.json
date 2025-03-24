@@ -1,0 +1,52 @@
+{
+  "name": "nuumi",
+  "description": "Wir haben uns zum Ziel gesetzt, die häufigste vermeidbare Todesursache der Menschheit zu bekämpfen, indem es Menschen unterstützt, mit dem Rauchen aufzuhören und ihnen dadurch zu einem gesünderen, selbstbestimmten und längeren Leben verhilft.",
+  "_localizedDescriptions": {
+    "en": "Solving the No.1 cause of preventable death to help people live healthier, more empowered, and longer lives."
+  },
+  "iconURL": "https://altstore.nuumi.io/nuumi/icon_20241115.png",
+  "headerURL": "https://altstore.nuumi.io/header_20241115.jpg",
+  "website": "https://nuumi.de",
+  "tintColor": "#373e42",
+  "featuredApps": [
+    "co.sanosgroup.nuumi.app"
+  ],
+  "apps": [
+    {
+      "name": "nuumi",
+      "bundleIdentifier": "co.sanosgroup.nuumi.app",
+      "marketplaceID": "6730122411",
+      "developerName": "Sanos Group GmbH",
+      "subtitle": "Die 3-in-1 Rauchentwöhnung",
+      "localizedDescription": "Nuumi - Die 3 in 1 Rauchentwöhnung für den dauerhaften Rauchstopp.3 Therapien benutzerfreundlich kombiniert in einem Produkt:\n\nNikotinersatztherapie, Verhaltenstraining und KI-Coaching.Der intelligente nuumi Vaporizer bietet eine personalisierte Nikotinentwöhnung.\n\nSchrittweise wird das Nikotin reduziert, um Entzugserscheinungen zu vermeiden und dich von der körperlichen Abhängigkeit zu entwöhnen.Die nuumi-App bietet ein wissenschaftlich fundiertes Training zur Verhaltensänderung, um dich von deinen Gewohnheiten zu lösen.Der nuumi 24/7 KI-Coach stellt sicher, dass es nicht an deiner Willenskraft scheitert.\n\nEr hält deine Motivation hoch und unterstützt dich auf deiner Reise zum Nichtraucher.Die nuumi 3-in-1 Therapie stellt dir alle Hilfsmittel zur Verfügung, damit der Rauchstopp stressfrei und machbar wird.Nimm deine Gesundheit selbst in die Hand und fang endlich an aufzuhören.",
+      "_localizedDescriptions": {
+        "en": "Nuumi - The 3-in-1 smoking cessation solution for permanent quitting. 3 therapies user-friendly combined in one product:\n\nNicotine replacement therapy, behavior training, and AI coaching. The intelligent nuumi Vaporizer offers personalized nicotine withdrawal.\n\nNicotine is gradually reduced to avoid withdrawal symptoms and wean you off physical dependence. The nuumi app provides scientifically-based behavior change training to help you break your habits. The nuumi 24/7 AI coach ensures that willpower is not your stumbling block.\n\nIt keeps your motivation high and supports you on your journey to becoming a non-smoker. The nuumi 3-in-1 therapy provides you with all the tools to make quitting smoking stress-free and achievable. Take your health into your own hands and finally start to quit."
+      },
+      "iconURL": "https://altstore.nuumi.io/nuumi/icon_20241115.png",
+      "tintColor": "#6D31FF",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.47.0",
+          "buildVersion": "115",
+          "date": "2025-03-18",
+          "size": 43486208,
+          "downloadURL": "https://altstore.nuumi.io/nuumi/adp/v0.47.0",
+          "localizedDescription": "Verbesserte Übersicht, Flacker-Problem behoben, genauere Pod-Liquid-Anzeige.",
+          "_localizedDescriptions": {
+            "en": "Improved dashboard, fixed Activity Circle flicker, better pod liquid tracking."
+          },
+          "minOSVersion": "13.4"
+        }
+      ],
+      "appPermissions": {
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Wir benötigen Bluetooth-Zugriff, um Vapingdaten zu synchronisieren und Ihre Nutzungsstatistiken aktuell zu halten.",
+          "NSBluetoothPeripheralUsageDescription": "Wir benötigen Bluetooth-Zugriff, um eine Verbindung mit Ihrem Vaporizer herzustellen und zu kommunizieren.",
+          "NSLocationWhenInUseUsageDescription": "Wir verwenden Ihren Standort, um Ihre Nutzungsmuster besser zu verstehen und Ihnen personalisierte Empfehlungen zu geben."
+        }
+      }
+    }
+  ],
+  "news": []
+}
