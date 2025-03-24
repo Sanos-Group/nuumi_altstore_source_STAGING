@@ -24,7 +24,18 @@
       },
       "iconURL": "https://altstore.nuumi.io/nuumi/icon_20241115.png",
       "tintColor": "#6D31FF",
-      "screenshots": [],
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/4e/f2/ad4ef289-c765-d27d-5d18-b782e850d9bd/8ab01275-4a70-4fa5-8f61-ecf8e055ab89_0x0ss__U002810_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/53/97/37/53973759-0b07-424f-1704-e4cf69580a88/a4114c36-d4f6-4f19-9024-66d356885d62_0x0ss__U00281_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/ff/34/a2ff340b-2864-e4a1-faef-6857c275f819/e64511af-e509-44e5-9f4a-d00ed2a1eb38_0x0ss__U00282_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/3d/44/cc3d4405-6c22-5d2a-7aac-feb274703650/bda04eec-c95d-4ebc-a72a-019f51c3b156_0x0ss__U00283_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/ad/6a/2bad6a2a-8db2-3b45-29db-75f7d45a866e/578c817b-5f6d-4208-b84c-db7547a0117e_0x0ss__U00284_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/74/38/1374384a-55fc-c87f-0c9b-61cf536277ae/9b7c8dcc-61cf-4a02-b8fe-c58643a1e310_0x0ss__U00285_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/e8/05/f8e8056f-a296-c7a1-a4b2-d080e696cea4/1607e5b7-d308-4f4f-8894-52f964b1ff33_0x0ss__U00286_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/54/af/2654afa8-7768-f4ff-1078-326281d7fb81/5d4c7d67-ae96-4f57-b5f8-6f894865983f_0x0ss__U00287_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/0d/4a/b90d4af4-fb1d-d010-5e2f-5a626ce9fbb8/fc286e9e-5d52-44e1-926e-b1f743ad181a_0x0ss__U00288_U0029.png/0x0ss.png",
+        "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/e1/81/a9e18175-fdfa-7e48-9f9c-ca75fefc09d2/94bad55c-03c0-4593-bc5e-99cc9e62ef14_0x0ss__U00289_U0029.png/0x0ss.png"
+        ],
       "versions": [
         {
           "version": "0.47.0",
