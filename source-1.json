@@ -48,7 +48,19 @@
             "en": "Improved dashboard, fixed Activity Circle flicker, better pod liquid tracking."
           },
           "minOSVersion": "13.4"
-        }
+        },
+        {
+            "version": "0.45.3",
+            "buildVersion": "115",
+            "date": "2025-02-12",
+            "size": 43486208,
+            "downloadURL": "https://altstore.nuumi.io/nuumi/adp/v0.45.3",
+            "localizedDescription": "testtttttt",
+            "_localizedDescriptions": {
+              "en": "testttttttt"
+            },
+            "minOSVersion": "13.4"
+          }
       ],
       "appPermissions": {
         "privacy": {
